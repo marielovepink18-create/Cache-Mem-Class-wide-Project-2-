@@ -1,0 +1,20 @@
+{
+  "os": " Microsoft Windows [Version 10.0.22631.6199]",
+  "machine": "x86_64",
+  "compiler": "gcc.exe (GCC) 15.2.0",
+  "cflags": "-O3 -march=native -std=gnu11 -fno-tree-loop-distribute-patterns -ladvapi32 -lm",
+  "cache": {"l1d_bytes": 32768, "l2_bytes": 524288, "l3_bytes": 4194304, "line_bytes": 64},
+  "cache_heterogeneous": false,
+  "logical_cpus": 4,
+  "physical_cpus": [0, 2],
+  "physical_cores_detected": 2,
+  "physical_cores": 2,
+  "smt_enabled": true,
+  "large_page_min": 2097152,
+  "measured_core_ghz": 1.611,
+  "freq_calibration_cpu": 2,
+  "cpu_model": "AMD Athlon Gold 3150U with Radeon Graphics",
+  "power_plan": "Power Scheme GUID: 48684d4a-8524-4093-8a63-ea7132b79c1c  (HP Recommended)",
+  "total_ram_gb": "9.9",
+  "dimms": ["4 GB @ 2400 MT/s (rated 3200)", "8 GB @ 2400 MT/s (rated 3200)"]
+}
